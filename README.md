@@ -1,8 +1,8 @@
 # Fractal explorer
 
 ### How to play:
-- <key>+</key> - increase recursion limit
-- <key>-</key> - increase recursion limit
-- <key>wheel</key> - change zoom
+- <kbd>+</kbd>: increase recursion limit
+- <kbd>-</kbd>: decrease recursion limit
+- <kbd>wheel</kbd>: change zoom
 
 ## Do not use app on mobile device.
